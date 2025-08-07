@@ -84,18 +84,20 @@
 
 ## 📈 LeetCode Stats (Live)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_Panneerselvam?theme=light&font=Roboto&ext=activity)](https://leetcode.com/u/Deepak_Panneerselvam/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_Panneerselvam?theme=light&font=Roboto)](https://leetcode.com/u/Deepak_Panneerselvam/)
 
 ---
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/deepak-panneerselvam"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://twitter.com/deepakpann92650"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-  <a href="https://leetcode.com/deepak_panneerselvam"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
-  <a href="https://www.hackerrank.com/deepakp1455"><img src="https://skillicons.dev/icons?i=hackerrank"/></a>
+<p align="left">
+<a href="https://twitter.com/deepakpann92650" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/></a>
+<a href="https://linkedin.com/in/deepak-panneerselvam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://stackoverflow.com/users/deepak-p" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" width="30" height="30"/></a>
+<a href="https://instagram.com/@deepakprp7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/></a>
+<a href="https://www.hackerrank.com/deepakp1455" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/></a>
+<a href="https://www.leetcode.com/deepak_panneerselvam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/></a>
+<a href="https://www.hackerearth.com/@deepakp1455" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" width="30" height="30"/></a>
+<a href="https://auth.geeksforgeeks.org/user/deepak1unb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="30" height="30"/></a>
 </p>
-
----
 
 > "Code. Learn. Repeat." – Let's build the future together ✨
