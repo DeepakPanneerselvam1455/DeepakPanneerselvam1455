@@ -54,14 +54,16 @@
 
 ---
 
-### 📜 Certifications
+### 📜 Professional Certifications
 
-- Microsoft & LinkedIn: Generative AI, Career Essentials in Software Engineering
-- Udemy: Full Stack Web Development Bootcamp
-- Infosys SpringBoard: Java Foundation, Frontend Web Dev
-- NPTEL: Programming in Java, C (Elite Badge)
-- Cisco: Intro to Cybersecurity
-- AWS: Cloud Foundations, Operations, Architecting
+| Logo | Certification | Provider |
+|------|---------------|----------|
+| ![Microsoft](https://img.icons8.com/color/48/000000/microsoft.png) | [Generative AI](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link) | Microsoft & LinkedIn |
+| ![LinkedIn](https://img.icons8.com/color/48/linkedin.png) | [Career Essentials in Software Engineering](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link) | LinkedIn |
+| ![Udemy](https://img.icons8.com/ios-filled/50/udemy.png) | [Full Stack Web Development Bootcamp](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link) | Udemy |
+| ![Infosys](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-infosys-a-global-leader-in-technology-services-and-consulting-logo-color-tal-revivo.png) | Java Foundation, Frontend Web Development | Infosys SpringBoard |
+| ![NPTEL](https://img.icons8.com/color/48/nptel.png) | Programming in Java, Programming in C (Elite Badge) | NPTEL |
+| ![AWS](https://img.icons8.com/color/48/amazon-web-services.png) | Cloud Foundations, Operations, Architecting | AWS Academy |
 
 📁 [View All Certificates](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link)
 
