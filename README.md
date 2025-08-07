@@ -65,7 +65,7 @@
 | <img src="https://upload.wikimedia.org/wikipedia/en/5/50/NPTEL_Logo.png" width="24"/> | Programming in Java, Programming in C (Elite Badge) | NPTEL |
 | <img src="https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png" width="24"/> | Cloud Foundations, Operations, Architecting | AWS Academy |
 
-🎯 Want to explore more? Check out my verified certifications on [Credly](https://www.credly.com/users/deepakp1455/badges) and [Udemy](https://www.udemy.com/user/deepakp1455/).
+🎯Looking for proof? View all my verified certifications on [Credly](/users/deepak-panneer-selvam) and [Udemy](https://www.udemy.com/user/deepakp1455/).
 
 ---
 
