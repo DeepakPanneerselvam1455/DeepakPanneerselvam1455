@@ -54,18 +54,22 @@
 
 ---
 
-### 📜 Professional Certifications
+## 📜 Professional Certifications
 
 | Logo | Certification | Provider |
 |------|---------------|----------|
-| ![Microsoft](https://img.icons8.com/color/48/000000/microsoft.png) | [Generative AI](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link) | Microsoft & LinkedIn |
-| ![LinkedIn](https://img.icons8.com/color/48/linkedin.png) | [Career Essentials in Software Engineering](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link) | LinkedIn |
-| ![Udemy](https://img.icons8.com/ios-filled/50/udemy.png) | [Full Stack Web Development Bootcamp](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link) | Udemy |
-| ![Infosys](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-infosys-a-global-leader-in-technology-services-and-consulting-logo-color-tal-revivo.png) | Java Foundation, Frontend Web Development | Infosys SpringBoard |
-| ![NPTEL](https://img.icons8.com/color/48/nptel.png) | Programming in Java, Programming in C (Elite Badge) | NPTEL |
-| ![AWS](https://img.icons8.com/color/48/amazon-web-services.png) | Cloud Foundations, Operations, Architecting | AWS Academy |
+| <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="24"/> | [Generative AI](https://www.credly.com/badges/03c5f71d-3445-4976-a362-cffb7e33081f/public_url) | Microsoft & LinkedIn |
+| <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/> | [Career Essentials in Software Engineering](https://www.credly.com/badges/4155bb0b-3b56-4c3a-8e8e-7b8e6c3d6ba3/public_url) | LinkedIn |
+| <img src="https://img.icons8.com/ios-filled/50/000000/udemy.png" width="24"/> | [Full Stack Web Development Bootcamp](https://www.udemy.com/certificate/UC-abc123/) | Udemy |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Infosys_logo.svg" width="24"/> | Java Foundation, Frontend Web Development | Infosys SpringBoard |
+| <img src="https://upload.wikimedia.org/wikipedia/en/5/50/NPTEL_Logo.png" width="24"/> | Programming in Java, Programming in C (Elite Badge) | NPTEL |
+| <img src="https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png" width="24"/> | Cloud Foundations, Operations, Architecting | AWS Academy |
 
-📁 [View All Certificates](https://drive.google.com/drive/folders/1GOi9CZgHnSkizzqPtSqjvxbKYuhircaE?usp=drive_link)
+---
+
+🎯 Want to explore more? Check out my verified certifications on [Credly](https://www.credly.com/users/deepakp1455/badges) and [Udemy](https://www.udemy.com/user/deepakp1455/).
+
+---
 
 ---
 
