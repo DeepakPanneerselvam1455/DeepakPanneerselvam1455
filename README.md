@@ -80,6 +80,14 @@
 
 ---
 
+### 📈 LeetCode Stats (Live)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/deepak_panneerselvam?theme=light&font=Karma&ext=activity" width="80%"/>
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
