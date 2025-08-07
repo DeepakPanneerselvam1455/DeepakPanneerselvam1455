@@ -82,14 +82,11 @@
 
 ---
 
-### 📈 LeetCode Stats (Live)
+## 📈 LeetCode Stats (Live)
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/deepak_panneerselvam?theme=light&font=Karma&ext=activity" width="80%"/>
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Deepak_Panneerselvam?theme=light&font=Roboto&ext=activity)](https://leetcode.com/u/Deepak_Panneerselvam/)
 
 ---
-
 ### 📫 Let's Connect
 
 <p align="center">
